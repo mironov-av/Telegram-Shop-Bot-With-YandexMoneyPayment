@@ -1,1 +1,1 @@
-# Telegram-ShopBot-With-YandexMoneyPayment
+# Telegram-Shop-Bot-With-YandexMoneyPayment
